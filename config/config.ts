@@ -27,7 +27,7 @@ interface CustomScript {
 export const config = {
   // Marketing & SEO
   badge: "Lingo Job Board",
-  title: "Discover and Apply to Your Dream Jobs Today",
+  title: "Language jobs in Thailand",
   description:
     "Browse curated opportunities from leading companies. Updated daily with the latest positions.",
   url:
